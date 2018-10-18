@@ -25,3 +25,15 @@
 
 # Data Quality Process
 Source Data -> Data Profiling -> Data Cleansing -> High Quality Data
+
+# Five Analysis Categories
+## Structural Analysis
+- Overview of database content
+
+## Column Analysis
+- indicator selection according to data type (pattern frequences, regex matching)
+
+## Table Analysis
+
+## Cross Table Analysis
+## Correlation Analysis
