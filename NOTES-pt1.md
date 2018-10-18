@@ -43,5 +43,4 @@ Source Data -> Data Profiling -> Data Cleansing -> High Quality Data
 - data overlap
 
 ### Correlation Analysis
-- related fluctuations among two sets of data
-- 
+- related fluctuations among two sets of data 
