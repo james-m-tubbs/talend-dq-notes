@@ -39,6 +39,9 @@ Source Data -> Data Profiling -> Data Cleansing -> High Quality Data
 
 ### Cross Table Analysis
 - data relationshps
-
+- primary / FK matching
+- data overlap
 
 ### Correlation Analysis
+- related fluctuations among two sets of data
+- 
