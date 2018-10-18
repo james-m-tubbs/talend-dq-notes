@@ -24,3 +24,4 @@
 - Data could be valid, but wrong. I.E. Misentering a zip code
 
 # Data Quality Process
+Source Data -> Data Profiling -> Data Cleansing -> High Quality Data
