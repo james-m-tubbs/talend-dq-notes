@@ -34,6 +34,11 @@ Source Data -> Data Profiling -> Data Cleansing -> High Quality Data
 - indicator selection according to data type (pattern frequences, regex matching)
 
 ### Table Analysis
+- data profiling on a single table
+- dependencies, business rule validation, matching features identify duplicate/suspect rows
 
 ### Cross Table Analysis
+- data relationshps
+
+
 ### Correlation Analysis
